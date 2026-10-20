@@ -1,0 +1,33 @@
+{
+  "selected": "transformer",
+  "mlp_validation": {
+    "price_count": 1105,
+    "outcome_count": 25031,
+    "price_mae": 14046.467218023798,
+    "price_rmse": 128224.60082479932,
+    "price_log_mae": 0.5654576120048728,
+    "outcome_rate": 0.045743278334864766,
+    "brier": 0.04272971055344526,
+    "average_precision": 0.11754421381881558,
+    "roc_auc": 0.754559411937416,
+    "k": 100,
+    "precision_at_100": 0.12,
+    "recall_at_100": 0.010480349344978166,
+    "lift_at_100": 2.6233362445414845
+  },
+  "transformer_validation": {
+    "price_count": 1105,
+    "outcome_count": 25031,
+    "price_mae": 12858.67299800471,
+    "price_rmse": 104924.57428530949,
+    "price_log_mae": 0.5534691394425174,
+    "outcome_rate": 0.045743278334864766,
+    "brier": 0.04338985753854883,
+    "average_precision": 0.13232857653468438,
+    "roc_auc": 0.7620561934106949,
+    "k": 100,
+    "precision_at_100": 0.18,
+    "recall_at_100": 0.01572052401746725,
+    "lift_at_100": 3.935004366812227
+  }
+}

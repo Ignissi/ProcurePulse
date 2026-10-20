@@ -1,0 +1,44 @@
+{
+  "selected": "transformer",
+  "model": {
+    "price_count": 1301,
+    "outcome_count": 27971,
+    "price_mae": 26534.572003758345,
+    "price_rmse": 228871.53881192906,
+    "price_log_mae": 0.6073451535739155,
+    "outcome_rate": 0.05545028779807658,
+    "brier": 0.05269908068715925,
+    "average_precision": 0.13253329313586582,
+    "roc_auc": 0.7259629693621512,
+    "k": 100,
+    "precision_at_100": 0.3,
+    "recall_at_100": 0.019342359767891684,
+    "lift_at_100": 5.4102514506769825
+  },
+  "baseline": {
+    "price_count": 1301,
+    "outcome_count": 27971,
+    "price_mae": 24512.52730836432,
+    "price_rmse": 229702.99352103687,
+    "price_log_mae": 0.23295596975443542,
+    "outcome_rate": 0.05545028779807658,
+    "brier": 0.052951497826902956,
+    "average_precision": 0.05545028779807658,
+    "roc_auc": 0.5
+  },
+  "ranking": {
+    "primary_strategy": "outcome_score",
+    "primary": {
+      "k": 100,
+      "precision_at_100": 0.3,
+      "recall_at_100": 0.019342359767891684,
+      "lift_at_100": 5.4102514506769825
+    },
+    "fusion_baseline": {
+      "k": 100,
+      "precision_at_100": 0.28,
+      "recall_at_100": 0.018052869116698903,
+      "lift_at_100": 5.049568020631851
+    }
+  }
+}

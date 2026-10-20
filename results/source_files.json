@@ -1,0 +1,51 @@
+[
+  {
+    "month": "202210",
+    "bytes": 206795238,
+    "sha256": "ade792c6016dd1789f7eb356b83b468d628ca785b59695aaabd50d65782035d2",
+    "url": "https://old.clearspending.ru/download/opendata/contracts_44fz_202210-latest.jsonl.zip",
+    "source_modified": "Wed, 12 Jun 2024 10:41:02 GMT"
+  },
+  {
+    "month": "202211",
+    "bytes": 266456673,
+    "sha256": "8cd2346662e012bcfcfd5f0f88bcb6eb6c369093bfa3161392ccbaf99bea72c6",
+    "url": "https://old.clearspending.ru/download/opendata/contracts_44fz_202211-latest.jsonl.zip",
+    "source_modified": "Wed, 12 Jun 2024 10:42:42 GMT"
+  },
+  {
+    "month": "202212",
+    "bytes": 535431566,
+    "sha256": "e513c4b848ae7df09737970458dd6ca1080c1dd2193d7303452f058ca6b8419a",
+    "url": "https://old.clearspending.ru/download/opendata/contracts_44fz_202212-latest.jsonl.zip",
+    "source_modified": "Wed, 12 Jun 2024 10:45:39 GMT"
+  },
+  {
+    "month": "202301",
+    "bytes": 421194648,
+    "sha256": "9a80a19fa4f68e5c593820210984e84ce137a08cf9bdef3b893405a878bcb811",
+    "url": "https://old.clearspending.ru/download/opendata/contracts_44fz_202301-latest.jsonl.zip",
+    "source_modified": "Wed, 12 Jun 2024 10:47:42 GMT"
+  },
+  {
+    "month": "202302",
+    "bytes": 248644000,
+    "sha256": "b0803a4b9ef492706a1bb4599734f2edf8948ce56b57275f742771abb0a61fa3",
+    "url": "https://old.clearspending.ru/download/opendata/contracts_44fz_202302-latest.jsonl.zip",
+    "source_modified": "Wed, 12 Jun 2024 10:48:50 GMT"
+  },
+  {
+    "month": "202303",
+    "bytes": 325691485,
+    "sha256": "2e459c5e068f95f804cc6b9b284a39998f6bdba1070bd4e1e439f7183edb19fb",
+    "url": "https://old.clearspending.ru/download/opendata/contracts_44fz_202303-latest.jsonl.zip",
+    "source_modified": "Wed, 12 Jun 2024 10:51:11 GMT"
+  },
+  {
+    "month": "202304",
+    "bytes": 306702800,
+    "sha256": "dfb597b93a337f8715590b32a2905aa09cc3403c67ee24fd35383ae5de180709",
+    "url": "https://old.clearspending.ru/download/opendata/contracts_44fz_202304-latest.jsonl.zip",
+    "source_modified": "Wed, 12 Jun 2024 10:52:36 GMT"
+  }
+]
